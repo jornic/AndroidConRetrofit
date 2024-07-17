@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Proyecto Retrofit</string>
+
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="VerificarContrasena">Confirmar Contraseña</string>
+    <string name="btnRegiter">Registrar</string>
+    <string name="lbNuevo">Nuevo Login</string>
+    <string name="btn">Aceptar</string>
+    <string name="errorimg">Error al cargar imagen</string>
+
+    <string name="datos">Datos personales</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="direccion">Direccion</string>
+    <string name="Correo">Correo</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="registrar"><b>¿No tienes cuenta?</b>\n<i>Has clic aqui.</i> para registrar</string>
+</resources>
